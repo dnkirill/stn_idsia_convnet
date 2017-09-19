@@ -10,10 +10,13 @@ This repository provides the source code and the context for my blog post on Med
 **The notebook with code: [STN_IDSIA_German_Traffic_Signs](stn_idsia_german_traffic_signs.ipynb)**
 
 ### STN Transformation Demos:
+
 Grayscale:
+
 ![](https://raw.githubusercontent.com/dnkirill/stn_idsia_convnet/master/imgs/animation.gif)
 
 Color:
+
 ![](https://raw.githubusercontent.com/dnkirill/stn_idsia_convnet/master/imgs/animation3.gif)
 
 ### Acknowledgements:
